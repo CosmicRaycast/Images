@@ -1,5 +1,5 @@
 # Hovertank
 
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://digitalocean.com)
+> Note: this project is not officially in production!
 
-Visit [Cosmic Raycast Docs](https://cosmicraycast.gitlab.io/docs) for latest hosting instructions.
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/CosmicRaycast/Hovertank/tree/main)
