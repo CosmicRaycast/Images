@@ -1,4 +1,4 @@
-# Cosmic Raycast Container Registry
+# Cosmic Raycast Docker Images
 
 > Note: these projects have not officially reached production!
 
